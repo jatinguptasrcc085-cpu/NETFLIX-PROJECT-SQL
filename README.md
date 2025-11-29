@@ -1,5 +1,7 @@
 # NETFLIX-PROJECT-SQL
 # 🎬 Netflix Movies & TV Shows Data Analysis using SQL
+<img width="2560" height="692" alt="image" src="https://github.com/user-attachments/assets/f430521b-4445-4f68-a85e-f0e71c0a5fbd" />
+
 
 ## 📌 Project Overview
 In this project, I used **PostgreSQL** to analyze a dataset of Netflix movies and TV shows. The goal was to solve critical business problems regarding content distribution, creator trends, and platform insights. 
