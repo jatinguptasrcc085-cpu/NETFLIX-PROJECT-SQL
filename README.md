@@ -63,7 +63,8 @@ The SQL queries in this project address the following 15 business questions:
 * **Rating Trends:** `TV-MA` and `TV-14` are the most dominant ratings, indicating a shift towards mature audiences.
 
 ## 📜 Full Analysis Code
-[**Click here to view the full SQL script**](https://github.com/[YourGitHubUsername]/Netflix_SQL_Analysis/blob/main/analysis.sql)
+[**Click here to view the full SQL script**](https://github.com/jatinguptasrcc085-cpu/NETFLIX-PROJECT-SQL/blob/main/NETFLIX_PROJECT_SQL.sql)
+[**Click here to download the dataset**](https://github.com/jatinguptasrcc085-cpu/NETFLIX-PROJECT-SQL/blob/main/netflix_titles.csv)
 
 ---
 
