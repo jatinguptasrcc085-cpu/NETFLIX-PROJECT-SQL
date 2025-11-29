@@ -9,6 +9,7 @@ As a **Master of Economics** student, I approached this data to understand not j
 ## 📂 Data Structure
 The analysis is built on the `NETFLIX` table with the following schema:
 
+```sql
 DROP TABLE IF EXISTS NETFLIX;
 CREATE TABLE NETFLIX
 (
