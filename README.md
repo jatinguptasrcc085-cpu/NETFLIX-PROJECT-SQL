@@ -26,6 +26,7 @@ CREATE TABLE NETFLIX
     LISTED_IN    VARCHAR(250),
     DESCRIPTION  VARCHAR(550)
 );
+```
 
 ## 🚀 Key Business Problems Solved
 The SQL queries in this project address the following 15 business questions:
