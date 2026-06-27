@@ -70,7 +70,6 @@ The SQL queries in this project address the following 15 business questions:
 
 ## 👤 Author
 **JATIN GUPTA** 
-**Master of Economics|Delhi School of Economics** 
 **Bachelor in Economics|Shri Ram College of Commerce|**
 
 - **Email:** jatinguptasrcc085@gmail.com
